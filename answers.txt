@@ -1,0 +1,4 @@
+a. In a non-Agile project, the product owner is the person that sets the
+   direction for the team. They handle release management as well as manage
+   the stakeholders. They are crucial to the success of the team by acting
+   as a leader and by overseeing the entire project process.
