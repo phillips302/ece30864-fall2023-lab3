@@ -2,9 +2,20 @@ a. In a non-Agile project, the product owner is the person that sets the
    direction for the team. They handle release management as well as manage
    the stakeholders. They are crucial to the success of the team by acting
    as a leader and by overseeing the entire project process.
-   
+
 b. The scrum master differs from the product owner as they handle all scrum
    related tasks, including JIRA tooling and facilitaing sprints and meetings,
    whereas the product owner oversees the whole operation, including visions
    outside of the scrum. They are related in that they keep the team oriented
    towards a certain direction, but differ in the roles they fill in that vision.
+   
+c. The three types of meetings that happen during a sprint cycle are:
+   1. Sprint Planning Meeting
+      ~ Determine what needs to be completed by the sprint (end goal)
+      ~ Determines the story points and assigns the stories to the team
+   2. Daily Scrum/Standup Meeting
+      ~ Short meetings that happen daily (~10 min)
+      ~ Discuss work completed, plan work for the upcoming day
+   3. Spring Retrospective Meeting
+      ~ Discuss work complete and move incomplete work to the backlog
+      ~ Close out the sprint and clean up
