@@ -8,7 +8,7 @@ b. The scrum master differs from the product owner as they handle all scrum
    whereas the product owner oversees the whole operation, including visions
    outside of the scrum. They are related in that they keep the team oriented
    towards a certain direction, but differ in the roles they fill in that vision.
-   
+
 c. The three types of meetings that happen during a sprint cycle are:
    1. Sprint Planning Meeting
       ~ Determine what needs to be completed by the sprint (end goal)
@@ -19,3 +19,18 @@ c. The three types of meetings that happen during a sprint cycle are:
    3. Spring Retrospective Meeting
       ~ Discuss work complete and move incomplete work to the backlog
       ~ Close out the sprint and clean up
+
+d. JIRA Terms
+   1. EPIC
+      ~ Outlines a large body of work that needs to be broken down into many other
+        smaller tasks.
+      ~ Large goal in the overall project vision
+   2. STORY
+      ~ Requirement of a larger task that needs to be completed and can be explained
+        in a few short sentences.
+      ~ Smaller body of work that fits into a larger vision
+   3. BUG
+      ~ Type of issue that indicates some bottleneck or issue within the larger project
+      ~ The smallest unit of work in a sprint
+   4. TASK
+      ~ Smaller body of work that fits into a larger vision of a project
